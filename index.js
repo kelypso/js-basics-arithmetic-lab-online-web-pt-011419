@@ -6,4 +6,5 @@ let multiply = var1 * var2;
 let random = Math.ceil(Math.random());
 
 let mod = 36 % 8;
+
 let max =
