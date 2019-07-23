@@ -1,5 +1,8 @@
 // Write your code here
-let multiply =
+let var1 = 31;
+let var2 = 2;
+let multiply = var1 * var2;
+
 let random =
 let mod =
 let max = 
