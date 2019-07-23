@@ -7,4 +7,4 @@ let random = Math.ceil(Math.random());
 
 let mod = 36 % 8;
 
-let max =
+let max = Math.max(7, 11, 20);
